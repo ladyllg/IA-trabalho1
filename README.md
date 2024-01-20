@@ -61,4 +61,3 @@ Nota:
     Os predicados de exemplo state1/1 e final/1 demonstram como definir um estado inicial e metas finais.
 
     Você pode personalizar os blocos e lugares no Mundo dos Blocos, juntamente com seus tamanhos, para adequar à sua instância específica do problema.
-
