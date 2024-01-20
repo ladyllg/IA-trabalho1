@@ -54,7 +54,7 @@ prolog
 Isso gerará um plano para transformar o estado inicial no estado desejado.
 
 
-Nota:
+Nota:      
 
     Certifique-se de que o estado inicial e as metas estão definidos adequadamente com base no seu cenário específico do Mundo dos Blocos.
 
